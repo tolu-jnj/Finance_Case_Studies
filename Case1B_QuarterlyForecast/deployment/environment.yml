@@ -1,0 +1,11 @@
+name: case1b_env
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - scikit-learn
+  - xgboost
+  - statsmodels
+  - prophet
+  - pip:
+    - streamlit

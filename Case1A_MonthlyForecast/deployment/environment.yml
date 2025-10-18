@@ -1,0 +1,10 @@
+name: case1a_env
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - scikit-learn
+  - lightgbm
+  - prophet
+  - pip:
+    - streamlit

@@ -1,0 +1,6 @@
+# Case-specific ignores
+__pycache__/
+.env
+.venv/
+*.csv
+*.parquet
