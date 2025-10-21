@@ -1,0 +1,150 @@
+{
+  "timestamp": "2025-10-21T00:31:15.278171",
+  "model": "Lasso",
+  "forecast_year": 2020,
+  "n_forecasts": 180,
+  "n_series": 15,
+  "forecast_range": {
+    "min": 2992.0508069648863,
+    "max": 14202.592381855402,
+    "mean": 7416.140000017851,
+    "median": 6232.6745466195825
+  },
+  "series_summary": [
+    {
+      "Country": "Country_A",
+      "Product": "Product_X",
+      "mean_forecast": 3921.2725101806027,
+      "std_forecast": 246.9381973162138,
+      "min_forecast": 3662.797642679488,
+      "max_forecast": 4282.910050714244,
+      "range_forecast": 620.1124080347558
+    },
+    {
+      "Country": "Country_A",
+      "Product": "Product_Y",
+      "mean_forecast": 6014.472638075934,
+      "std_forecast": 596.3239717174199,
+      "min_forecast": 5095.5260385674555,
+      "max_forecast": 6569.3998014359,
+      "range_forecast": 1473.8737628684448
+    },
+    {
+      "Country": "Country_A",
+      "Product": "Product_Z",
+      "mean_forecast": 5573.762275740912,
+      "std_forecast": 612.1277331062843,
+      "min_forecast": 4784.76209351146,
+      "max_forecast": 6253.602270297384,
+      "range_forecast": 1468.840176785924
+    },
+    {
+      "Country": "Country_B",
+      "Product": "Product_X",
+      "mean_forecast": 4763.076321245219,
+      "std_forecast": 982.6498732138607,
+      "min_forecast": 3931.816092795677,
+      "max_forecast": 6117.706249440654,
+      "range_forecast": 2185.8901566449767
+    },
+    {
+      "Country": "Country_B",
+      "Product": "Product_Y",
+      "mean_forecast": 6502.595119118938,
+      "std_forecast": 2000.7797241516564,
+      "min_forecast": 4619.616893328453,
+      "max_forecast": 9246.625495269695,
+      "range_forecast": 4627.008601941241
+    },
+    {
+      "Country": "Country_B",
+      "Product": "Product_Z",
+      "mean_forecast": 5259.065749223763,
+      "std_forecast": 321.39869393989017,
+      "min_forecast": 4927.762941764116,
+      "max_forecast": 5705.745239344492,
+      "range_forecast": 777.9822975803763
+    },
+    {
+      "Country": "Country_C",
+      "Product": "Product_X",
+      "mean_forecast": 7744.4987031227065,
+      "std_forecast": 2607.685238049535,
+      "min_forecast": 5524.941379744451,
+      "max_forecast": 11452.93621222685,
+      "range_forecast": 5927.994832482399
+    },
+    {
+      "Country": "Country_C",
+      "Product": "Product_Y",
+      "mean_forecast": 9110.142443907329,
+      "std_forecast": 921.5371130792221,
+      "min_forecast": 8100.111360744844,
+      "max_forecast": 10421.034999073569,
+      "range_forecast": 2320.9236383287243
+    },
+    {
+      "Country": "Country_C",
+      "Product": "Product_Z",
+      "mean_forecast": 5603.757612464146,
+      "std_forecast": 1900.9822456288296,
+      "min_forecast": 3954.128778349247,
+      "max_forecast": 8330.887264521336,
+      "range_forecast": 4376.758486172089
+    },
+    {
+      "Country": "Country_D",
+      "Product": "Product_X",
+      "mean_forecast": 3096.831706616496,
+      "std_forecast": 89.11122831731657,
+      "min_forecast": 2992.0508069648863,
+      "max_forecast": 3237.9189606808777,
+      "range_forecast": 245.8681537159914
+    },
+    {
+      "Country": "Country_D",
+      "Product": "Product_Y",
+      "mean_forecast": 8385.446523704408,
+      "std_forecast": 1256.1992858052206,
+      "min_forecast": 7301.916094501769,
+      "max_forecast": 10217.682275065656,
+      "range_forecast": 2915.7661805638863
+    },
+    {
+      "Country": "Country_D",
+      "Product": "Product_Z",
+      "mean_forecast": 7110.840650718383,
+      "std_forecast": 1118.8729217114585,
+      "min_forecast": 5856.56038065853,
+      "max_forecast": 8654.550176379684,
+      "range_forecast": 2797.9897957211533
+    },
+    {
+      "Country": "Country_E",
+      "Product": "Product_X",
+      "mean_forecast": 13535.186771169216,
+      "std_forecast": 416.33123079162567,
+      "min_forecast": 12945.45626347032,
+      "max_forecast": 14043.104632040833,
+      "range_forecast": 1097.6483685705134
+    },
+    {
+      "Country": "Country_E",
+      "Product": "Product_Y",
+      "mean_forecast": 12770.473684004928,
+      "std_forecast": 697.8499327274346,
+      "min_forecast": 12181.658038451185,
+      "max_forecast": 13794.462222781649,
+      "range_forecast": 1612.8041843304636
+    },
+    {
+      "Country": "Country_E",
+      "Product": "Product_Z",
+      "mean_forecast": 11850.677290974789,
+      "std_forecast": 1741.1835670256592,
+      "min_forecast": 10418.337005949334,
+      "max_forecast": 14202.592381855402,
+      "range_forecast": 3784.2553759060684
+    }
+  ]
+}

@@ -2,5 +2,10 @@
 __pycache__/
 .env
 .venv/
-*.csv
+# Ignore most CSV and parquet artifacts, but allow committed forecast outputs
 *.parquet
+# keep default CSV ignore, but explicitly allow forecasts folder outputs
+*.csv
+!forecasts/forecasts_2020.csv
+!forecasts/forecast_summary.csv
+!forecasts/forecast_report.json
