@@ -1,0 +1,322 @@
+{
+  "timestamp": "2025-10-21T06:21:01.623330",
+  "model": "GradientBoostingRegressor",
+  "forecast_year": 2020,
+  "n_forecasts": 136,
+  "n_series": 34,
+  "n_quarters": 4,
+  "forecast_range": {
+    "min": 2140.919609310616,
+    "max": 14997542.472271046,
+    "mean": 1517959.1464940403,
+    "median": 330021.4619455298
+  },
+  "series_summary": [
+    {
+      "Country": "A",
+      "Product": "Y1",
+      "mean_forecast": 14888507.86225897,
+      "std_forecast": 74464.45026278205,
+      "min_forecast": 14838378.921037996,
+      "max_forecast": 14997542.472271046,
+      "range_forecast": 159163.55123304948
+    },
+    {
+      "Country": "A",
+      "Product": "Y10",
+      "mean_forecast": 11185685.952642597,
+      "std_forecast": 623383.0417834533,
+      "min_forecast": 10567891.837834962,
+      "max_forecast": 11791710.155759852,
+      "range_forecast": 1223818.3179248907
+    },
+    {
+      "Country": "A",
+      "Product": "Y11",
+      "mean_forecast": 1707866.228370458,
+      "std_forecast": 27110.83222862101,
+      "min_forecast": 1686122.368948273,
+      "max_forecast": 1747067.3356043522,
+      "range_forecast": 60944.96665607928
+    },
+    {
+      "Country": "A",
+      "Product": "Y12",
+      "mean_forecast": 1343632.366206192,
+      "std_forecast": 19999.737788352024,
+      "min_forecast": 1313637.7776773726,
+      "max_forecast": 1353889.2170613967,
+      "range_forecast": 40251.439384024125
+    },
+    {
+      "Country": "A",
+      "Product": "Y2",
+      "mean_forecast": 586623.830849639,
+      "std_forecast": 11811.54709726127,
+      "min_forecast": 574502.2664349523,
+      "max_forecast": 602847.076387141,
+      "range_forecast": 28344.80995218875
+    },
+    {
+      "Country": "A",
+      "Product": "Y3",
+      "mean_forecast": 192246.33323487832,
+      "std_forecast": 7124.9257129063935,
+      "min_forecast": 181594.47139433067,
+      "max_forecast": 196207.40448485303,
+      "range_forecast": 14612.933090522361
+    },
+    {
+      "Country": "A",
+      "Product": "Y4",
+      "mean_forecast": 241039.92895198095,
+      "std_forecast": 10492.351883483618,
+      "min_forecast": 226249.27575899148,
+      "max_forecast": 251041.85383258905,
+      "range_forecast": 24792.57807359757
+    },
+    {
+      "Country": "A",
+      "Product": "Y5",
+      "mean_forecast": 549016.5346197895,
+      "std_forecast": 19630.693866370933,
+      "min_forecast": 523963.71278560016,
+      "max_forecast": 571756.9033360101,
+      "range_forecast": 47793.1905504099
+    },
+    {
+      "Country": "A",
+      "Product": "Y6",
+      "mean_forecast": 2034471.0234900354,
+      "std_forecast": 108182.53153743788,
+      "min_forecast": 1905355.8917317044,
+      "max_forecast": 2128180.5747099905,
+      "range_forecast": 222824.68297828618
+    },
+    {
+      "Country": "A",
+      "Product": "Y7",
+      "mean_forecast": 6116406.867786732,
+      "std_forecast": 46568.6338301038,
+      "min_forecast": 6046573.165662584,
+      "max_forecast": 6141134.989138472,
+      "range_forecast": 94561.823475888
+    },
+    {
+      "Country": "A",
+      "Product": "Y8",
+      "mean_forecast": 2939861.043111967,
+      "std_forecast": 142639.29296798637,
+      "min_forecast": 2825552.878546875,
+      "max_forecast": 3128081.379305565,
+      "range_forecast": 302528.5007586898
+    },
+    {
+      "Country": "A",
+      "Product": "Y9",
+      "mean_forecast": 455883.2440344222,
+      "std_forecast": 53683.68111072268,
+      "min_forecast": 410536.6197714185,
+      "max_forecast": 517181.8068298505,
+      "range_forecast": 106645.18705843197
+    },
+    {
+      "Country": "B",
+      "Product": "Y13",
+      "mean_forecast": 582362.8822652544,
+      "std_forecast": 41686.99474402566,
+      "min_forecast": 541319.6162984779,
+      "max_forecast": 627553.1694001752,
+      "range_forecast": 86233.55310169735
+    },
+    {
+      "Country": "B",
+      "Product": "Y14",
+      "mean_forecast": 3771.532202935035,
+      "std_forecast": 140.7687254953198,
+      "min_forecast": 3560.3791146920553,
+      "max_forecast": 3841.916565682695,
+      "range_forecast": 281.5374509906396
+    },
+    {
+      "Country": "B",
+      "Product": "Y16",
+      "mean_forecast": 2463.350110184165,
+      "std_forecast": 372.3106729485783,
+      "min_forecast": 2140.919609310616,
+      "max_forecast": 2785.7806110577135,
+      "range_forecast": 644.8610017470974
+    },
+    {
+      "Country": "B",
+      "Product": "Y17",
+      "mean_forecast": 6980.043204085975,
+      "std_forecast": 0.0,
+      "min_forecast": 6980.043204085975,
+      "max_forecast": 6980.043204085975,
+      "range_forecast": 0.0
+    },
+    {
+      "Country": "B",
+      "Product": "Y18",
+      "mean_forecast": 5261.023909365146,
+      "std_forecast": 87.52781225426926,
+      "min_forecast": 5193.364299587807,
+      "max_forecast": 5377.016026697797,
+      "range_forecast": 183.65172710999013
+    },
+    {
+      "Country": "B",
+      "Product": "Y19",
+      "mean_forecast": 329610.3210128447,
+      "std_forecast": 644.8954802328129,
+      "min_forecast": 328664.6133980901,
+      "max_forecast": 330021.4619455298,
+      "range_forecast": 1356.848547439673
+    },
+    {
+      "Country": "B",
+      "Product": "Y21",
+      "mean_forecast": 373941.87820336665,
+      "std_forecast": 23515.537274995007,
+      "min_forecast": 348828.6712836469,
+      "max_forecast": 402668.2868712436,
+      "range_forecast": 53839.61558759672
+    },
+    {
+      "Country": "B",
+      "Product": "Y22",
+      "mean_forecast": 467815.7950681386,
+      "std_forecast": 52936.79025286167,
+      "min_forecast": 415672.988171575,
+      "max_forecast": 526756.5008552164,
+      "range_forecast": 111083.5126836414
+    },
+    {
+      "Country": "B",
+      "Product": "Y23",
+      "mean_forecast": 19448.898661826097,
+      "std_forecast": 972.6997075846361,
+      "min_forecast": 18470.012485610696,
+      "max_forecast": 20289.54291102799,
+      "range_forecast": 1819.5304254172952
+    },
+    {
+      "Country": "B",
+      "Product": "Y24",
+      "mean_forecast": 302680.85802546353,
+      "std_forecast": 35473.57019805323,
+      "min_forecast": 270481.3769306092,
+      "max_forecast": 347756.80361378804,
+      "range_forecast": 77275.42668317881
+    },
+    {
+      "Country": "C",
+      "Product": "Y25",
+      "mean_forecast": 4007531.0853544474,
+      "std_forecast": 80811.65866647019,
+      "min_forecast": 3913046.712624049,
+      "max_forecast": 4107499.695548152,
+      "range_forecast": 194452.98292410327
+    },
+    {
+      "Country": "C",
+      "Product": "Y26",
+      "mean_forecast": 66609.43695186281,
+      "std_forecast": 4671.381530624747,
+      "min_forecast": 62217.312938174524,
+      "max_forecast": 73220.9314946725,
+      "range_forecast": 11003.618556497982
+    },
+    {
+      "Country": "C",
+      "Product": "Y27",
+      "mean_forecast": 42602.79551930027,
+      "std_forecast": 1313.4416708810818,
+      "min_forecast": 41465.321665928175,
+      "max_forecast": 43740.26937267237,
+      "range_forecast": 2274.9477067441912
+    },
+    {
+      "Country": "C",
+      "Product": "Y28",
+      "mean_forecast": 9142.504743625746,
+      "std_forecast": 1489.0545096735918,
+      "min_forecast": 7535.16765620997,
+      "max_forecast": 10409.394797342853,
+      "range_forecast": 2874.227141132883
+    },
+    {
+      "Country": "C",
+      "Product": "Y29",
+      "mean_forecast": 141822.54455380107,
+      "std_forecast": 2371.9673844737517,
+      "min_forecast": 138716.28327897534,
+      "max_forecast": 144493.72012390362,
+      "range_forecast": 5777.436844928277
+    },
+    {
+      "Country": "C",
+      "Product": "Y30",
+      "mean_forecast": 78497.85855156416,
+      "std_forecast": 2536.42905062882,
+      "min_forecast": 77029.00225429946,
+      "max_forecast": 82276.50506642058,
+      "range_forecast": 5247.502812121122
+    },
+    {
+      "Country": "C",
+      "Product": "Y31",
+      "mean_forecast": 470195.9263276716,
+      "std_forecast": 103551.7307793221,
+      "min_forecast": 373608.6713832292,
+      "max_forecast": 577696.8666185669,
+      "range_forecast": 204088.1952353377
+    },
+    {
+      "Country": "C",
+      "Product": "Y32",
+      "mean_forecast": 35131.50902993314,
+      "std_forecast": 2223.52585935921,
+      "min_forecast": 32538.14248473457,
+      "max_forecast": 36984.63382669208,
+      "range_forecast": 4446.49134195751
+    },
+    {
+      "Country": "C",
+      "Product": "Y33",
+      "mean_forecast": 1955438.7345224214,
+      "std_forecast": 63591.890029834125,
+      "min_forecast": 1886816.793412224,
+      "max_forecast": 2010221.5963495276,
+      "range_forecast": 123404.80293730367
+    },
+    {
+      "Country": "C",
+      "Product": "Y34",
+      "mean_forecast": 128649.35519303594,
+      "std_forecast": 978.5188920886584,
+      "min_forecast": 128160.0957469916,
+      "max_forecast": 130117.13353116892,
+      "range_forecast": 1957.0377841773152
+    },
+    {
+      "Country": "C",
+      "Product": "Y35",
+      "mean_forecast": 4040.546704118011,
+      "std_forecast": 846.8682465715351,
+      "min_forecast": 3307.1372889286777,
+      "max_forecast": 4773.956119307344,
+      "range_forecast": 1466.8188303786665
+    },
+    {
+      "Country": "C",
+      "Product": "Y36",
+      "mean_forecast": 335370.8851244678,
+      "std_forecast": 8660.646311222054,
+      "min_forecast": 328113.3393492551,
+      "max_forecast": 346975.22768018505,
+      "range_forecast": 18861.88833092997
+    }
+  ]
+}
