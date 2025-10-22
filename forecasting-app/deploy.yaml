@@ -1,0 +1,40 @@
+---
+version: "2.0"
+
+services:
+  streamlit-app:
+    image: your-dockerhub-username/forecasting-app:latest
+    expose:
+      - port: 8501
+        as: 80
+        to:
+          - global: true
+
+profiles:
+  compute:
+    streamlit-app:
+      resources:
+        cpu:
+          units: 1.0
+        memory:
+          size: 2Gi
+        storage:
+          size: 5Gi
+
+  placement:
+    westcoast:
+      attributes:
+        host: akash
+      signedBy:
+        anyOf:
+          - "akash1365yvmc4s7awdyj3n2sav7xfx76adc6dnmlx63"
+      pricing:
+        streamlit-app:
+          denom: uakt
+          amount: 100
+
+deployment:
+  streamlit-app:
+    westcoast:
+      profile: streamlit-app
+      count: 1
