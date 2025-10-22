@@ -24,3 +24,6 @@ data/
 
 # VSCode
 .vscode/
+
+# Local environment created by IDE or tests
+Finance_EDA/
