@@ -1,0 +1,20 @@
+{
+  "case": "1B_Quarterly",
+  "model": "SARIMA(0,1,1)(0,1,1)4",
+  "stationarity": {
+    "adf_pvalue": 0.8104598551909946,
+    "kpss_pvalue": 0.04026147972795123
+  },
+  "diagnostics": {
+    "ljung_box_pass": true,
+    "jarque_bera_pvalue": 0.003612295629350841
+  },
+  "performance": {
+    "test_wape": 8.844320851738187,
+    "test_r2": 0.7074237184380059,
+    "test_mae": 1185759.9932699949,
+    "test_rmse": 1303351.3027832392
+  },
+  "aic": 790.2923514384553,
+  "bic": 793.9489789130599
+}

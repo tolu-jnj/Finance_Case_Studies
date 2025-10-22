@@ -1,0 +1,53 @@
+{
+  "timestamp": "2025-10-20T22:58:28.952336",
+  "best_model": "Ridge",
+  "best_metrics": {
+    "Model": "Ridge",
+    "Split": "Test",
+    "MAE": 3.27481310478106e-05,
+    "RMSE": 4.837111950591161e-05,
+    "MAPE": 5.74827613908272e-07,
+    "WAPE": 4.627357755173381e-07,
+    "R2": 0.9999999999999998
+  },
+  "n_features": 28,
+  "feature_columns": [
+    "month",
+    "month_cos",
+    "month_sin",
+    "months_since_start",
+    "quarter",
+    "quarter_cos",
+    "quarter_sin",
+    "year",
+    "lag_1",
+    "lag_12",
+    "lag_2",
+    "lag_3",
+    "lag_6",
+    "roll_max_12",
+    "roll_max_3",
+    "roll_max_6",
+    "roll_mean_12",
+    "roll_mean_3",
+    "roll_mean_6",
+    "roll_min_12",
+    "roll_min_3",
+    "roll_min_6",
+    "roll_std_12",
+    "roll_std_3",
+    "roll_std_6",
+    "CountryProduct_code",
+    "Country_code",
+    "Product_code"
+  ],
+  "models_trained": [
+    "Ridge",
+    "Lasso",
+    "DecisionTree",
+    "RandomForest",
+    "GradientBoosting"
+  ],
+  "train_samples": 1260,
+  "test_samples": 180
+}

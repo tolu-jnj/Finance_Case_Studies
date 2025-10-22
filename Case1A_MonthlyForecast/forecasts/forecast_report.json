@@ -1,150 +1,150 @@
 {
-  "timestamp": "2025-10-21T00:31:15.278171",
-  "model": "Lasso",
+  "timestamp": "2025-10-22T04:34:30.992715",
+  "model": "GradientBoostingRegressor",
   "forecast_year": 2020,
   "n_forecasts": 180,
   "n_series": 15,
   "forecast_range": {
-    "min": 2992.0508069648863,
-    "max": 14202.592381855402,
-    "mean": 7416.140000017851,
-    "median": 6232.6745466195825
+    "min": 3093.738604480106,
+    "max": 14133.138421603659,
+    "mean": 7536.059075730431,
+    "median": 6697.971145084994
   },
   "series_summary": [
     {
       "Country": "Country_A",
       "Product": "Product_X",
-      "mean_forecast": 3921.2725101806027,
-      "std_forecast": 246.9381973162138,
-      "min_forecast": 3662.797642679488,
-      "max_forecast": 4282.910050714244,
-      "range_forecast": 620.1124080347558
+      "mean_forecast": 4317.926582512029,
+      "std_forecast": 199.77594807444422,
+      "min_forecast": 3942.7600502774253,
+      "max_forecast": 4630.772909417856,
+      "range_forecast": 688.0128591404305
     },
     {
       "Country": "Country_A",
       "Product": "Product_Y",
-      "mean_forecast": 6014.472638075934,
-      "std_forecast": 596.3239717174199,
-      "min_forecast": 5095.5260385674555,
-      "max_forecast": 6569.3998014359,
-      "range_forecast": 1473.8737628684448
+      "mean_forecast": 6673.658324260671,
+      "std_forecast": 641.8569624944272,
+      "min_forecast": 5431.767692086493,
+      "max_forecast": 7328.736432320604,
+      "range_forecast": 1896.9687402341106
     },
     {
       "Country": "Country_A",
       "Product": "Product_Z",
-      "mean_forecast": 5573.762275740912,
-      "std_forecast": 612.1277331062843,
-      "min_forecast": 4784.76209351146,
-      "max_forecast": 6253.602270297384,
-      "range_forecast": 1468.840176785924
+      "mean_forecast": 5510.430661553899,
+      "std_forecast": 444.46810515127197,
+      "min_forecast": 4877.529705610184,
+      "max_forecast": 6174.512588484501,
+      "range_forecast": 1296.9828828743175
     },
     {
       "Country": "Country_B",
       "Product": "Product_X",
-      "mean_forecast": 4763.076321245219,
-      "std_forecast": 982.6498732138607,
-      "min_forecast": 3931.816092795677,
-      "max_forecast": 6117.706249440654,
-      "range_forecast": 2185.8901566449767
+      "mean_forecast": 4830.912554902024,
+      "std_forecast": 787.2124397104817,
+      "min_forecast": 3862.594630294312,
+      "max_forecast": 5924.858679066544,
+      "range_forecast": 2062.264048772232
     },
     {
       "Country": "Country_B",
       "Product": "Product_Y",
-      "mean_forecast": 6502.595119118938,
-      "std_forecast": 2000.7797241516564,
-      "min_forecast": 4619.616893328453,
-      "max_forecast": 9246.625495269695,
-      "range_forecast": 4627.008601941241
+      "mean_forecast": 5836.828221382836,
+      "std_forecast": 1313.7380842873586,
+      "min_forecast": 3854.3218360331634,
+      "max_forecast": 7723.317593898529,
+      "range_forecast": 3868.9957578653652
     },
     {
       "Country": "Country_B",
       "Product": "Product_Z",
-      "mean_forecast": 5259.065749223763,
-      "std_forecast": 321.39869393989017,
-      "min_forecast": 4927.762941764116,
-      "max_forecast": 5705.745239344492,
-      "range_forecast": 777.9822975803763
+      "mean_forecast": 4788.095572533163,
+      "std_forecast": 483.1938286385078,
+      "min_forecast": 4247.344530349768,
+      "max_forecast": 5477.408903271169,
+      "range_forecast": 1230.0643729214007
     },
     {
       "Country": "Country_C",
       "Product": "Product_X",
-      "mean_forecast": 7744.4987031227065,
-      "std_forecast": 2607.685238049535,
-      "min_forecast": 5524.941379744451,
-      "max_forecast": 11452.93621222685,
-      "range_forecast": 5927.994832482399
+      "mean_forecast": 8861.826262601984,
+      "std_forecast": 2071.436891556121,
+      "min_forecast": 6505.611570824494,
+      "max_forecast": 12671.105074689405,
+      "range_forecast": 6165.493503864911
     },
     {
       "Country": "Country_C",
       "Product": "Product_Y",
-      "mean_forecast": 9110.142443907329,
-      "std_forecast": 921.5371130792221,
-      "min_forecast": 8100.111360744844,
-      "max_forecast": 10421.034999073569,
-      "range_forecast": 2320.9236383287243
+      "mean_forecast": 9142.592594388998,
+      "std_forecast": 895.1238845116823,
+      "min_forecast": 7920.786812414329,
+      "max_forecast": 10344.247869772587,
+      "range_forecast": 2423.4610573582586
     },
     {
       "Country": "Country_C",
       "Product": "Product_Z",
-      "mean_forecast": 5603.757612464146,
-      "std_forecast": 1900.9822456288296,
-      "min_forecast": 3954.128778349247,
-      "max_forecast": 8330.887264521336,
-      "range_forecast": 4376.758486172089
+      "mean_forecast": 5818.614984674788,
+      "std_forecast": 1147.3042792441856,
+      "min_forecast": 4320.922696054285,
+      "max_forecast": 7759.479306944043,
+      "range_forecast": 3438.5566108897583
     },
     {
       "Country": "Country_D",
       "Product": "Product_X",
-      "mean_forecast": 3096.831706616496,
-      "std_forecast": 89.11122831731657,
-      "min_forecast": 2992.0508069648863,
-      "max_forecast": 3237.9189606808777,
-      "range_forecast": 245.8681537159914
+      "mean_forecast": 3404.2386007819546,
+      "std_forecast": 228.40808722346065,
+      "min_forecast": 3093.738604480106,
+      "max_forecast": 3768.5463947098824,
+      "range_forecast": 674.8077902297764
     },
     {
       "Country": "Country_D",
       "Product": "Product_Y",
-      "mean_forecast": 8385.446523704408,
-      "std_forecast": 1256.1992858052206,
-      "min_forecast": 7301.916094501769,
-      "max_forecast": 10217.682275065656,
-      "range_forecast": 2915.7661805638863
+      "mean_forecast": 8807.083055211095,
+      "std_forecast": 860.9066896772658,
+      "min_forecast": 7850.17381707315,
+      "max_forecast": 10279.315395045256,
+      "range_forecast": 2429.1415779721065
     },
     {
       "Country": "Country_D",
       "Product": "Product_Z",
-      "mean_forecast": 7110.840650718383,
-      "std_forecast": 1118.8729217114585,
-      "min_forecast": 5856.56038065853,
-      "max_forecast": 8654.550176379684,
-      "range_forecast": 2797.9897957211533
+      "mean_forecast": 6586.725884274786,
+      "std_forecast": 523.131195748149,
+      "min_forecast": 5611.59745330142,
+      "max_forecast": 7441.886628143318,
+      "range_forecast": 1830.2891748418988
     },
     {
       "Country": "Country_E",
       "Product": "Product_X",
-      "mean_forecast": 13535.186771169216,
-      "std_forecast": 416.33123079162567,
-      "min_forecast": 12945.45626347032,
-      "max_forecast": 14043.104632040833,
-      "range_forecast": 1097.6483685705134
+      "mean_forecast": 13087.719870100975,
+      "std_forecast": 313.41819061899025,
+      "min_forecast": 12497.0493024455,
+      "max_forecast": 13461.115625820545,
+      "range_forecast": 964.0663233750438
     },
     {
       "Country": "Country_E",
       "Product": "Product_Y",
-      "mean_forecast": 12770.473684004928,
-      "std_forecast": 697.8499327274346,
-      "min_forecast": 12181.658038451185,
-      "max_forecast": 13794.462222781649,
-      "range_forecast": 1612.8041843304636
+      "mean_forecast": 13397.83270725132,
+      "std_forecast": 504.5657508647166,
+      "min_forecast": 12756.706776366704,
+      "max_forecast": 14021.348841295377,
+      "range_forecast": 1264.6420649286738
     },
     {
       "Country": "Country_E",
       "Product": "Product_Z",
-      "mean_forecast": 11850.677290974789,
-      "std_forecast": 1741.1835670256592,
-      "min_forecast": 10418.337005949334,
-      "max_forecast": 14202.592381855402,
-      "range_forecast": 3784.2553759060684
+      "mean_forecast": 11976.400259525944,
+      "std_forecast": 1495.6428723350834,
+      "min_forecast": 10603.21094629504,
+      "max_forecast": 14133.138421603659,
+      "range_forecast": 3529.9274753086193
     }
   ]
 }
